@@ -4,8 +4,6 @@ import './card.scss'
 import {TiWeatherPartlySunny} from 'react-icons/ti'
 import {FaTemperatureLow,FaFlag} from 'react-icons/fa'
 import {ImLocation} from 'react-icons/im'
-import {GrMapLocation} from 'react-icons/gr'
-import Image from './image'
 
 export default function Card() {
 
